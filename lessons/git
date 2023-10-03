@@ -1,0 +1,3 @@
+git init - инициализатор гита
+git remote add origin link - привязывает к акк в гит
+git add namefile/.
